@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Загрузить страницу Activity по умолчанию при загрузке страницы
-    loadPage('main.html');
+    loadPage('./intern_web-bee.github.io/main.html');
 
     // Найти все ссылки в меню
     var links = document.querySelectorAll('.menu-link');
